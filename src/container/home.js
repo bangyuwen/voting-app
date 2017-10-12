@@ -2,7 +2,7 @@ import React from 'react'
 
 let Home = () => (
   <div>
-    HI
+    Home
   </div>
 )
 
